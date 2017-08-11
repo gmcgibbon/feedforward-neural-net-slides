@@ -1,1 +1,1 @@
-# Feedforward Neural Networks
+# Anatomy of a Feedforward Neural Network
