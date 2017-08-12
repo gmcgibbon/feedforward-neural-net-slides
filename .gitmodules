@@ -1,0 +1,4 @@
+[submodule "dist"]
+	path = dist
+	url = git@github.com:gmcgibbon/feedforward-neural-net-slides.git
+	branch = gh-pages
