@@ -1,3 +1,3 @@
-## Example
+## Demo
 
-[Tensorflow Playground](http://playground.tensorflow.org/)
+[TensorFlow Playground](http://playground.tensorflow.org/)
