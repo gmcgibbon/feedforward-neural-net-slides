@@ -1,6 +1,6 @@
 ## What is a Neural Network?
 
-Artificial Neural Networks (ANNs) are computational models inspired by the human brain. They take in data as input and transform it to output data.
+Artificial Neural Networks (ANNs) are computational models inspired by the human brain. They receive data as input and return it as some kind of transformed output.
 
 Vertical:
 

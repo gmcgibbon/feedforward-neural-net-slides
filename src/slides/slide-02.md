@@ -1,6 +1,6 @@
 ## What is Deep Learning?
 
-Deep Learning (DL) is a field of machine learning that employs ANNs to solve tasks. Deep learning typically involves the use of a deep ANNs.
+Deep Learning (DL) is a field of machine learning that employs neural networks to do tasks. Deep learning typically involves the use of a deep neural network.
 
 Vertical:
 

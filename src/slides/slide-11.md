@@ -6,7 +6,7 @@ Vertical:
 
 ## Types of Parameters
 
-There are two kinds of parameters used in neural networks:
+There are two kinds of parameters used in neural nets:
 
 1. Hyperparameters
 2. Trainable Parameters
@@ -15,7 +15,7 @@ Vertical:
 
 ## Hyperparameters
 
-Hyperparameters are the secret sauce of ANNs. They are predefined values used to shape aspects of a neural net.
+Hyperparameters are the secret sauce of ANNs. They are predefined values used to shape aspects of a neural net. Hyperparameters cannot be learned and are never adjusted.
 
 Vertical:
 

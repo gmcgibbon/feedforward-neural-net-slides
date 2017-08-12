@@ -1,6 +1,6 @@
 ## Optimizer
 
-The Optimizer is a an algorithm used by an ANN to "learn". Optimizers are simply methods to minimize error rates. Optimizers typically use gradient descent to minimize errors.
+The Optimizer is a an algorithm used by an ANN to learn. Optimizers are simply methods to minimize error rates. Modern optimizers typically use a variant of gradient descent to minimize errors.
 
 Vertical:
 

@@ -4,7 +4,7 @@ The training phase occurs when a neural network processes a set of training data
 
 Vertical:
 
-## Why Train?
+## Why do we Train?
 
 In supervised learning, the training phase is where all learning takes place and intelligence begins to emerge. Giving your model enough time to train is critical to its success.
 

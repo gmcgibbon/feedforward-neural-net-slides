@@ -4,6 +4,6 @@ The testing phase occurs when a neural network processes test data without adjus
 
 Vertical:
 
-## Why Test?
+## Why do we Test?
 
 Testing is essentially training without learning. Test data results serve as a useful metric to gauge how a model would perform with real world data.

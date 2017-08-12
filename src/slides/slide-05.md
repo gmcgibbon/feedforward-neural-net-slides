@@ -1,6 +1,6 @@
 ## What is a Feedforward Neural Network?
 
-Feedforward ANNs are neural networks that flow data in one direction: forward. There are no recurrent layers throughout the network.
+Feedforward ANNs are neural networks that flow data forward only. There are no recurrent layers throughout the network.
 
 Vertical:
 
