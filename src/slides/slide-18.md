@@ -7,6 +7,10 @@
 - https://deeplearning4j.org/data-sets-ml
 - http://cs231n.github.io/neural-networks-2/#losses
 - http://cs231n.github.io/optimization-1/#optimization
+
+Vertical:
+
+- https://en.wikipedia.org/wiki/Stochastic_gradient_descent
 - http://colinraffel.com/wiki/neural_network_hyperparameters
 - https://www.edx.org/course/deep-learning-explained-microsoft-dat236x
 - https://www.udacity.com/course/deep-learning-nanodegree-foundation--nd101
