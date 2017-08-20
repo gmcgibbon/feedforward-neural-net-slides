@@ -1,19 +1,36 @@
-## Nodes
+## Data
 
-Nodes are artificial neurons that process data units. They are defined in groups known as "layers". Neural networks are typically visualized in layers.
-
-Vertical:
-
-## What's in a Node?
-
-There are three components in a node:
-
-- Inputs: One or more data units flowing into the node
-- Activation: A function that transforms inputs to a singular non-linear output
-- Output: The activated input flowing out of the node
+Data is the heart and soul of ANNs. Utilizing a good dataset is critical to the success of any neural network.
 
 Vertical:
 
-## What does a node look like?
+## What's in a Dataset?
 
-![ANN Node](https://deeplearning4j.org/img/perceptron_node.png)
+There are typically two categories of data in a dataset:
+
+- Input: Tensors that flow through the network and are returned as output (also called feature)
+- Label: Tensors of expected output for a given input
+
+Vertical:
+
+## What makes a Dataset "good"?
+
+Large ANNs often need lots of quality data to be useful. Here are some characteristics of a good dataset:
+
+- Large amount of examples
+- Unique examples
+- Accurate labelling
+
+Vertical:
+
+## What does the data look like?
+
+Datasets are typically composed of numerical arrays with one or more dimensions:
+
+```python
+input_tensor = numpy.array([[0, 1, 2], [1, -1, 0], [-2, 0, 0]])
+print(input_tensor.shape) # => (3, 3)
+
+label_tensor = numpy.array([0, 0, 1])
+print(label_tensor.shape) # => (3,)
+```

@@ -1,16 +1,6 @@
-## References
+## Examples
 
-- https://www.tutorialspoint.com/artificial_intelligence/artificial_intelligence_neural_networks.htm
-- https://en.wikipedia.org/wiki/Deep_learning
-- https://en.wikipedia.org/wiki/Artificial_neural_network
-- https://en.wikipedia.org/wiki/Feedforward_neural_network
-- https://deeplearning4j.org/data-sets-ml
-- http://cs231n.github.io/neural-networks-2/#losses
-- http://cs231n.github.io/optimization-1/#optimization
-
-Vertical:
-
-- https://en.wikipedia.org/wiki/Stochastic_gradient_descent
-- http://colinraffel.com/wiki/neural_network_hyperparameters
-- https://www.edx.org/course/deep-learning-explained-microsoft-dat236x
-- https://www.udacity.com/course/deep-learning-nanodegree-foundation--nd101
+- [Keras MNIST MLP](https://github.com/fchollet/keras/blob/master/examples/mnist_mlp.py)
+- [CNTK MNIST MLP](https://github.com/Microsoft/CNTK/blob/master/Tutorials/CNTK_103C_MNIST_MultiLayerPerceptron.ipynb)
+- [TensorFlow MNIST MLP](https://github.com/aymericdamien/TensorFlow-Examples/blob/master/examples/3_NeuralNetworks/multilayer_perceptron.py)
+- [CNTK MNIST CNN](https://github.com/gmcgibbon/cntk-examples/blob/master/cnn/mnist/example.ipynb)

@@ -1,15 +1,15 @@
-## What is a Feedforward Neural Network?
+## History of Deep Learning
 
-Feedforward ANNs are neural networks that flow data forward only. There are no recurrent layers throughout the network.
-
-Vertical:
-
-## Feedforward Data Direction
-
-![ANN Diagram](https://www.tutorialspoint.com/artificial_intelligence/images/atypical_ann.jpg)
+The concept of a neural network dates back to the 1940s. The field of AI (including DL) has grown tremendously since its early days of theory.
 
 Vertical:
 
-## Feedforward Data Flow
+## DL Today
 
-![Data Flow](http://machinethink.net/images/vggnet-convolutional-neural-network-iphone/Pipeline@2x.png)
+Deep Learning has seen a massive spike in usage in today's technologies. Large quantities of data, better hardware, and more efficient algorithms have made DL viable.
+
+Vertical:
+
+## DL Tomorrow
+
+Deep Learning continues to show great potential, surpassing state of the art methods to solve problems. Future ANNs will be able to learn more with less help.
