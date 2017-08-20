@@ -1,15 +1,15 @@
 ## What is a Deep Neural Network?
 
-Deep ANNs are neural networks with more than one layer. This is what makes deep learning "deep".
+Deep Neural Networks (DNNs) are neural networks with more than one hidden layer. This is what makes deep learning "deep".
 
 Vertical:
 
-## Single Layer Neural Network
+## DNN Comparison
 
-![SLP Diagram](http://neuroph.sourceforge.net/tutorials/images/perceptron.jpg)
+![DNN Diagram](https://cdn-images-1.medium.com/max/1600/1*5egrX--WuyrLA7gBEXdg5A.png)
 
 Vertical:
 
-## Multilayer Neural Network
+## Complex Neural Nets are Visualized in Layers
 
-![MLP Diagram](http://neuroph.sourceforge.net/tutorials/images/MLP.jpg)
+![DNN CNN Diagram](https://cdn-images-1.medium.com/max/1600/0*JIa4PbbfSFqNedPW.jpg)

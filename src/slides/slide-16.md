@@ -1,5 +1,9 @@
-## Demos
+## Predict
 
-- [TensorFlow Playground](http://playground.tensorflow.org/)
-- [Keras.js MNIST CNN](https://transcranial.github.io/keras-js/#/mnist-cnn)
-- [ConvNetJS Classifier](http://cs.stanford.edu/people/karpathy/convnetjs/demo/classify2d.html)
+The prediction phase occurs when a neural network processes a set of real world data without adjusting itself. The prediction phase occurs after training and testing.
+
+Vertical:
+
+## Why do we Predict?
+
+Prediction is the end goal of your model. Prediction results may be used in a variety of ways to solve real problems and build innovative apps.

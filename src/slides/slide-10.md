@@ -1,20 +1,19 @@
-## Optimizer
+## Loss Function
 
-The Optimizer is a an algorithm used by an ANN to learn. Optimizers are simply methods to minimize error rates. Modern optimizers typically use a variant of gradient descent to minimize errors.
-
-Vertical:
-
-## Types of Optimizers
-
-Here are some popular optimizers:
-
-- Stochastic Gradient Descent (SGD)
-- Adaptive Gradient Algorithm (Adagrad)
-- Root Mean Square Propagation (RMSprop)
-- Adaptive Moment Estimation (Adam)
+The Loss Function is a function that quantifies the accuracy of an ANN. This is useful for neural net optimization. Loss functions are also sometimes called cost or error functions.
 
 Vertical:
 
-## Optimizers Compared
+## Types of Loss Functions
 
-![Optimizer Graph](http://3.bp.blogspot.com/-nrtJPrdBWuE/VPmIB46F2aI/AAAAAAAACCw/vaE_B0SVy5k/s1600/Long%2BValley%2B-%2BImgur.gif)
+Here are some popular loss functions:
+
+- Mean Squared Error (MSE)
+- Categorical Cross Entropy
+- Cosine Proximity
+
+Vertical:
+
+## Loss Over Time
+
+![Loss Graph](http://cs231n.github.io/assets/nn3/loss.jpeg)

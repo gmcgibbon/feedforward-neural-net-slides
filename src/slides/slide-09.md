@@ -1,19 +1,19 @@
-## Loss Function
+## Nodes
 
-The Loss Function is a function that quantifies the accuracy of an ANN. This is useful for neural net optimization. Loss functions are also sometimes called cost or error functions.
-
-Vertical:
-
-## Types of Loss Functions
-
-Here are some popular loss functions:
-
-- Mean Squared Error (MSE)
-- Categorical Cross Entropy
-- Cosine Proximity
+Nodes are artificial neurons that process data units. They are defined in groups known as "layers". Neural networks are typically visualized in layers.
 
 Vertical:
 
-## Loss Over Time
+## What's in a Node?
 
-![Loss Graph](http://cs231n.github.io/assets/nn3/loss.jpeg)
+There are three components in a node:
+
+- Inputs: One or more data units flowing into the node
+- Activation: A function that transforms inputs to a singular non-linear output
+- Output: The activated input flowing out of the node
+
+Vertical:
+
+## What does a node look like?
+
+![ANN Node](https://deeplearning4j.org/img/perceptron_node.png)

@@ -12,4 +12,4 @@ Vertical:
 
 ## Think of DL as modelling simple brains with software
 
-![DL Brain](http://learning-systems.org/assets/fotolia_deeplearning_event.jpg)
+![DL Brain](http://www.anesthesiologynews.com/aimages/2017/AN0517_014a_20218_425.jpg)

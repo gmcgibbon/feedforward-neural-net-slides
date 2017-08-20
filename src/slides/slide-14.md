@@ -1,9 +1,22 @@
-## Test
+## Train
 
-The testing phase occurs when a neural network processes test data without adjusting itself. The testing phase typically occurs after training.
+The training phase occurs when a neural network processes a set of training data and adjusts itself using data labels. Depending on a model's complexity, training may require math better suited for GPUs.
 
 Vertical:
 
-## Why do we Test?
+## Why do we Train?
 
-Testing is essentially training without learning. Test data results serve as a useful metric to gauge how a model would perform with real world data.
+In supervised learning, the training phase is where all learning takes place and intelligence begins to emerge. Giving your model enough time to train is critical to its success.
+
+
+Vertical:
+
+## What does training look like?
+
+<iframe
+  width="560"
+  height="315"
+  src="https://www.youtube.com/embed/nrnxZVEHZCo?mute=1"
+  frameborder="0"
+  allowfullscreen>
+</iframe>
